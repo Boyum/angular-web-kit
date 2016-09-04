@@ -1,0 +1,32 @@
+{
+  "name": "fjellkam",
+  "description": "\"Fjellkam SPA update\"",
+  "main": "index.js",
+  "authors": [
+    "@avexisno"
+  ],
+  "license": "ISC",
+  "homepage": "avexis.no",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "bootstrap-sass": "^3.3.6",
+    "angular-translate": "^2.11.0",
+    "font-awesome": "^4.6.3",
+    "jquery": "~3.1.0",
+    "angular-translate-storage-cookie": "^2.11.1"
+  },
+  "resolutions": {
+    "jquery": "1.9.1 - 2",
+    "angular": "^1.5.7"
+  }
+}
